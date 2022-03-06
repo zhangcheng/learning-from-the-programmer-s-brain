@@ -1,0 +1,20 @@
+baseURL: https://example.org/
+languageCode: en-us
+disableKinds: ["taxonomy", "taxonomyTerm", "RSS", "sitemap"]
+outputs:
+  home: ["sac"]
+  page: ["sac"]
+  section: ["sac"]
+themesDir: "/usr/local/share/sac/themes"
+theme: ["sac/2.0.0"]
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+params:
+  title: "Bilibili sharing of Mar. 2022"
+  author: "Cheng Zhang"
+  description: "What every programmer needs to know about cognition"
+  options:
+    progress: false
+    slide_number: false
