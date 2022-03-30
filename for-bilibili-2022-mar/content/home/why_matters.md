@@ -4,7 +4,7 @@ markup: "html"
 ---
 {{< slide bg-color="electric" >}}
 
-## Why it matters to us?
+## Why it matters to the programmer?
 
 ------
 
@@ -32,11 +32,11 @@ markup: "html"
 
 ------
 
-### Cognitive Load
+### Cognitive Load (认知负荷)
 
 ------
 
-#### Intrinsic Load
+#### Intrinsic Load (内在负荷)
 
 {{< img src="/images/Intrinsic_load.png" height="500" >}}
 
@@ -44,7 +44,7 @@ How complex the problem is in itself
 
 ------
 
-#### Extraneous Load
+#### Extraneous Load (外在负荷)
 
 {{< img src="/images/Extraneous_load.png" height="500" >}}
 
@@ -52,7 +52,7 @@ What outside distractions add to the problem
 
 ------
 
-#### Germane Load
+#### Germane Load (关联负荷)
 
 {{< img src="/images/Germane_load.png" height="500" >}}
 
